@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 我似乎打
 New branch
-bitch girl
+bitch boy
+bye
